@@ -1,5 +1,5 @@
 Yoga Project
 - portofolio
 - chatbot telegram
-- auth login
+- IT Governance
 - ui/ux
